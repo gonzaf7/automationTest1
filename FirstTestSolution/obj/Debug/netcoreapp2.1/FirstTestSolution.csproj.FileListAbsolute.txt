@@ -1,0 +1,14 @@
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/obj/Debug/netcoreapp2.1/FirstTestSolution.csprojAssemblyReference.cache
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/obj/Debug/netcoreapp2.1/FirstTestSolution.csproj.CoreCompileInputs.cache
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/obj/Debug/netcoreapp2.1/FirstTestSolution.AssemblyInfoInputs.cache
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/obj/Debug/netcoreapp2.1/FirstTestSolution.AssemblyInfo.cs
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/FirstTestSolution.deps.json
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/FirstTestSolution.runtimeconfig.json
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/FirstTestSolution.runtimeconfig.dev.json
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/FirstTestSolution.dll
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/bin/Debug/netcoreapp2.1/FirstTestSolution.pdb
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/obj/Debug/netcoreapp2.1/FirstTestSolution.dll
+/Users/gonzaloalfaro/Projects/FirstTestSolution/FirstTestSolution/obj/Debug/netcoreapp2.1/FirstTestSolution.pdb
